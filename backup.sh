@@ -7,6 +7,12 @@ eg.
 ./backup.sh <source> <dest>
 info
 
+
+<<help 
+this is the shell script used for backups 
+can also be used with cron
+help
+
 src=$1
 dest=$2
 
